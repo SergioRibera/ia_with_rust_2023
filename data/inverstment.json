@@ -1,0 +1,23 @@
+{
+    "labels": [
+        "Investment in billion U.S. dollars",
+        "years"
+    ],
+    "datasets": [
+        {
+            "label": "Year",
+            "backgroundColor": "#fb9e60",
+            "fill": true,
+            "data": [
+                "12.75",
+                "17.7",
+                "44.08",
+                "43.81",
+                "48.85",
+                "67.85",
+                "93.5",
+                "91.9"
+            ]
+        }
+    ]
+}
