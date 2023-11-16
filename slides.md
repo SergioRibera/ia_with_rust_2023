@@ -78,7 +78,7 @@ colorSchema: 'light'
 <img v-click class="max-w-150px" src="/copilot.png" />
 <img v-click class="max-w-150px" src="/llama.png" />
 <img v-click class="max-w-150px" src="/dalle.png" />
-<img v-click class="max-w-150px rounded-xl" src="/blackbox.jpeg" />
+<img v-click class="max-w-150px rounded-xl" src="/empresas/17.png" />
 ---
 theme: seriph
 class: text-center
